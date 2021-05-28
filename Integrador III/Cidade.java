@@ -1,6 +1,7 @@
 
 public class Cidade {
 	
+	//atributos
 	private String cidade_id;
 	
 	private String uf_uf_id;
