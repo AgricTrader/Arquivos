@@ -1,4 +1,4 @@
-Repositório da disciplina Projeto Integrador III.
+Repositório da disciplina Projeto Integrador
 
 Documentação e arquivos referentes ao desenvolvimento do aplicativo Agric Trader.
 
